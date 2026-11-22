@@ -1,0 +1,77 @@
+# Career-Ops Profile Configuration -- Usman Ahmed Malik
+# Single source of truth for personal data across all modes.
+
+candidate:
+  full_name: "Usman Ahmed Malik"
+  email: "usman.malik2994@gmail.com"
+  phone: "+44 7983 862742"
+  location: "London, UK"
+  linkedin: "linkedin.com/in/usman-malik-987576100"
+  photo: ""
+
+target_roles:
+  primary:
+    - "Technical Project Manager"
+    - "Delivery Manager"
+    - "Technical Program Manager"
+  archetypes:
+    - name: "Technical Project / Delivery Manager"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Technical Program Manager"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Implementation / Client Onboarding Manager"
+      level: "Mid-Senior"
+      fit: "secondary"
+    - name: "Business Analyst (Senior / Technical)"
+      level: "Mid-Senior"
+      fit: "secondary"
+    - name: "Product Owner / Product Manager"
+      level: "Mid"
+      fit: "adjacent"
+
+narrative:
+  headline: "Technical Project Manager with a software engineering background, delivering IoT, building-systems and data integration programmes"
+  exit_story: "Went from software engineer to data analyst to BA to Technical Project Manager; at Acutro was the sole delivery coordinator across 10+ concurrent client programmes."
+  superpowers:
+    - "End-to-end delivery ownership across many concurrent client programmes"
+    - "Technical depth from a software engineering background (IoT, BMS/EMS, APIs, ETL, AWS)"
+    - "Turning client needs into deliverable SoWs and requirements"
+    - "Building AI automations that teams actually adopt (Jira Copilot)"
+  proof_points:
+    - name: "18-building IoT and metering programme (Acutro)"
+      hero_metric: "~£130k ARR brought live, on schedule and within budget"
+    - name: "Client onboarding process (Acutro)"
+      hero_metric: "Average onboarding cut from 8 to 5 weeks"
+    - name: "Jira Copilot (internal AI tool)"
+      hero_metric: "~5 hours/week of triage saved; 92 backlog items in first 5 weeks; full team adoption"
+
+compensation:
+  target_range: "£52K+"
+  currency: "GBP"
+  minimum: "£52K"
+  location_flexibility: "Open to remote, hybrid or on-site"
+
+location:
+  country: "United Kingdom"
+  city: "London"
+  timezone: "Europe/London"
+  visa_status: "Skilled Worker visa -- needs an employer that holds a UK sponsor licence"
+  authorized_in: []
+  needs_sponsorship: true
+
+language:
+  output: en
+
+# economy | standard | premium -- see modes/_shared.md (Spend Tier)
+spend_tier: standard
+
+page_format: a4
+
+cv:
+  output_format: "html"
+
+cover_letter:
+  notice_period_days: 0
+  primary_domain: "smart buildings / proptech SaaS (IoT, energy and building data)"

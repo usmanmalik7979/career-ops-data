@@ -1,0 +1,7 @@
+# Public GOV.UK sponsor register: ~11 MB, refreshed by each run, not worth versioning
+data/uk-sponsor-register.csv
+# Generated PDFs/HTML can be regenerated; keep the repo small
+output/*
+!output/.gitkeep
+node_modules/
+.DS_Store
