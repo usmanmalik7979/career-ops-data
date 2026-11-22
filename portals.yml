@@ -373,6 +373,19 @@ location_filter:
     - "India"
     - "Singapore"
     - "Australia"
+    - "US-Remote"
+    - "Remote US"
+    - "Remote in the US"
+    - "Remote - CA"
+    - "Remote - NYC"
+    - "Remote - DC"
+    - "Remote - FL"
+    - "Remote - GA"
+    - "Remote - IL"
+    - "Remote - Virginia"
+    - "Remote - Washington"
+    - "Remote - Houston"
+    - "Remote - Chicago"
 
 salary_filter:
   min: 52000
@@ -1218,6 +1231,26 @@ search_queries:
 # company_aliases:
 #   Fin: [Intercom]
 
+  # -- Big tech careers sites with no public API (run by the agent's web search) --
+  - name: Google — UK program/project roles
+    query: 'site:google.com/about/careers ("Technical Program Manager" OR "Program Manager" OR "Project Manager") London'
+    enabled: true
+  - name: Meta — UK program/project roles
+    query: 'site:metacareers.com ("Technical Program Manager" OR "Program Manager" OR "Delivery") London'
+    enabled: true
+  - name: Microsoft — UK program/project roles
+    query: 'site:jobs.careers.microsoft.com ("Program Manager" OR "Project Manager" OR "Delivery Manager") "United Kingdom"'
+    enabled: true
+  - name: Apple — UK program/project roles
+    query: 'site:jobs.apple.com ("Program Manager" OR "Project Manager") London'
+    enabled: true
+  - name: Big enterprise — UK TPM (Salesforce, Oracle, IBM, Cisco, SAP)
+    query: '("Technical Program Manager" OR "Delivery Manager" OR "Implementation Manager") London (site:careers.salesforce.com OR site:careers.oracle.com OR site:ibm.com/careers OR site:jobs.cisco.com OR site:jobs.sap.com)'
+    enabled: true
+  - name: Smart buildings / FM — UK (JLL, CBRE, Siemens, Schneider, JCI, Honeywell, Mitie, Equans)
+    query: '("Project Manager" OR "Delivery Manager" OR "Programme Manager" OR "Business Analyst") ("smart building" OR IoT OR BMS OR "building technology") London (JLL OR CBRE OR Siemens OR "Schneider Electric" OR "Johnson Controls" OR Honeywell OR Mitie OR Equans)'
+    enabled: true
+
 # ── aggregator: true (optional, per entry) ────────────────────────────
 # Marks a tracked_companies entry as a MULTI-EMPLOYER BOARD rather than one
 # employer — a job platform, a VC portfolio board, a recruiting marketplace that
@@ -1245,6 +1278,206 @@ search_queries:
 #     aggregator: true
 
 tracked_companies:
+  # ── Added for Usman: big tech + UK employers (verified against the live ATS API on 2026-11-22) ──
+  - name: Amazon / AWS (UK)
+    careers_url: https://www.amazon.jobs
+    provider: amazon
+    amazon:
+      normalized_country_code: [GBR]
+    notes: "All Amazon/AWS UK postings (~760); title_filter narrows them."
+    enabled: true
+  - name: Stripe
+    careers_url: https://job-boards.greenhouse.io/stripe
+    api: https://boards-api.greenhouse.io/v1/boards/stripe/jobs
+    enabled: true
+  - name: Databricks
+    careers_url: https://job-boards.greenhouse.io/databricks
+    api: https://boards-api.greenhouse.io/v1/boards/databricks/jobs
+    enabled: true
+  - name: Cloudflare
+    careers_url: https://job-boards.greenhouse.io/cloudflare
+    api: https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs
+    enabled: true
+  - name: Datadog
+    careers_url: https://job-boards.greenhouse.io/datadog
+    api: https://boards-api.greenhouse.io/v1/boards/datadog/jobs
+    enabled: true
+  - name: MongoDB
+    careers_url: https://job-boards.greenhouse.io/mongodb
+    api: https://boards-api.greenhouse.io/v1/boards/mongodb/jobs
+    enabled: true
+  - name: Okta
+    careers_url: https://job-boards.greenhouse.io/okta
+    api: https://boards-api.greenhouse.io/v1/boards/okta/jobs
+    enabled: true
+  - name: Elastic
+    careers_url: https://job-boards.greenhouse.io/elastic
+    api: https://boards-api.greenhouse.io/v1/boards/elastic/jobs
+    enabled: true
+  - name: GitLab
+    careers_url: https://job-boards.greenhouse.io/gitlab
+    api: https://boards-api.greenhouse.io/v1/boards/gitlab/jobs
+    enabled: true
+  - name: Figma
+    careers_url: https://job-boards.greenhouse.io/figma
+    api: https://boards-api.greenhouse.io/v1/boards/figma/jobs
+    enabled: true
+  - name: Airbnb
+    careers_url: https://job-boards.greenhouse.io/airbnb
+    api: https://boards-api.greenhouse.io/v1/boards/airbnb/jobs
+    enabled: true
+  - name: Dropbox
+    careers_url: https://job-boards.greenhouse.io/dropbox
+    api: https://boards-api.greenhouse.io/v1/boards/dropbox/jobs
+    enabled: true
+  - name: Pinterest
+    careers_url: https://job-boards.greenhouse.io/pinterest
+    api: https://boards-api.greenhouse.io/v1/boards/pinterest/jobs
+    enabled: true
+  - name: Reddit
+    careers_url: https://job-boards.greenhouse.io/reddit
+    api: https://boards-api.greenhouse.io/v1/boards/reddit/jobs
+    enabled: true
+  - name: Samsara
+    careers_url: https://job-boards.greenhouse.io/samsara
+    api: https://boards-api.greenhouse.io/v1/boards/samsara/jobs
+    enabled: true
+  - name: Verkada
+    careers_url: https://job-boards.greenhouse.io/verkada
+    api: https://boards-api.greenhouse.io/v1/boards/verkada/jobs
+    enabled: true
+  - name: Asana
+    careers_url: https://job-boards.greenhouse.io/asana
+    api: https://boards-api.greenhouse.io/v1/boards/asana/jobs
+    enabled: true
+  - name: Monzo
+    careers_url: https://job-boards.greenhouse.io/monzo
+    api: https://boards-api.greenhouse.io/v1/boards/monzo/jobs
+    enabled: true
+  - name: Wise
+    careers_url: https://job-boards.greenhouse.io/wise
+    api: https://boards-api.greenhouse.io/v1/boards/wise/jobs
+    enabled: true
+  - name: Deliveroo
+    careers_url: https://job-boards.greenhouse.io/deliveroo
+    api: https://boards-api.greenhouse.io/v1/boards/deliveroo/jobs
+    enabled: true
+  - name: GoCardless
+    careers_url: https://job-boards.greenhouse.io/gocardless
+    api: https://boards-api.greenhouse.io/v1/boards/gocardless/jobs
+    enabled: true
+  - name: Tide
+    careers_url: https://job-boards.greenhouse.io/tide
+    api: https://boards-api.greenhouse.io/v1/boards/tide/jobs
+    enabled: true
+  - name: Cleo
+    careers_url: https://job-boards.greenhouse.io/cleo
+    api: https://boards-api.greenhouse.io/v1/boards/cleo/jobs
+    enabled: true
+  - name: ComplyAdvantage
+    careers_url: https://job-boards.greenhouse.io/complyadvantage
+    api: https://boards-api.greenhouse.io/v1/boards/complyadvantage/jobs
+    enabled: true
+  - name: Peak
+    careers_url: https://job-boards.greenhouse.io/peak
+    api: https://boards-api.greenhouse.io/v1/boards/peak/jobs
+    enabled: true
+  - name: Scale AI
+    careers_url: https://job-boards.greenhouse.io/scaleai
+    api: https://boards-api.greenhouse.io/v1/boards/scaleai/jobs
+    enabled: true
+  - name: Canonical
+    careers_url: https://job-boards.greenhouse.io/canonical
+    api: https://boards-api.greenhouse.io/v1/boards/canonical/jobs
+    enabled: true
+  - name: Thoughtworks
+    careers_url: https://job-boards.greenhouse.io/thoughtworks
+    api: https://boards-api.greenhouse.io/v1/boards/thoughtworks/jobs
+    enabled: true
+  - name: VTS
+    careers_url: https://job-boards.greenhouse.io/vts
+    api: https://boards-api.greenhouse.io/v1/boards/vts/jobs
+    enabled: true
+  - name: Equal Experts
+    careers_url: https://job-boards.greenhouse.io/equalexperts
+    api: https://boards-api.greenhouse.io/v1/boards/equalexperts/jobs
+    enabled: true
+  - name: Graphcore
+    careers_url: https://job-boards.greenhouse.io/graphcore
+    api: https://boards-api.greenhouse.io/v1/boards/graphcore/jobs
+    enabled: true
+  - name: Capco
+    careers_url: https://job-boards.greenhouse.io/capco
+    api: https://boards-api.greenhouse.io/v1/boards/capco/jobs
+    enabled: true
+  - name: Baringa
+    careers_url: https://job-boards.greenhouse.io/baringa
+    api: https://boards-api.greenhouse.io/v1/boards/baringa/jobs
+    enabled: true
+  - name: OVO Energy
+    careers_url: https://job-boards.greenhouse.io/ovoenergy
+    api: https://boards-api.greenhouse.io/v1/boards/ovoenergy/jobs
+    enabled: true
+  - name: Snowflake
+    careers_url: https://jobs.ashbyhq.com/snowflake
+    enabled: true
+  - name: Kaluza
+    careers_url: https://jobs.ashbyhq.com/kaluza
+    enabled: true
+  - name: Paddle
+    careers_url: https://jobs.ashbyhq.com/paddle
+    enabled: true
+  - name: Snyk
+    careers_url: https://jobs.ashbyhq.com/snyk
+    enabled: true
+  - name: Motorway
+    careers_url: https://jobs.ashbyhq.com/motorway
+    enabled: true
+  - name: Multiverse
+    careers_url: https://jobs.ashbyhq.com/multiverse
+    enabled: true
+  - name: TrueLayer
+    careers_url: https://jobs.ashbyhq.com/truelayer
+    enabled: true
+  - name: Moneybox
+    careers_url: https://jobs.ashbyhq.com/moneybox
+    enabled: true
+  - name: Trainline
+    careers_url: https://jobs.ashbyhq.com/trainline
+    enabled: true
+  - name: Marshmallow
+    careers_url: https://jobs.ashbyhq.com/marshmallow
+    enabled: true
+  - name: Zego
+    careers_url: https://jobs.ashbyhq.com/zego
+    enabled: true
+  - name: Plaid
+    careers_url: https://jobs.ashbyhq.com/plaid
+    enabled: true
+  - name: Notion
+    careers_url: https://jobs.ashbyhq.com/notion
+    enabled: true
+  - name: Linear
+    careers_url: https://jobs.ashbyhq.com/linear
+    enabled: true
+  - name: OakNorth
+    careers_url: https://jobs.ashbyhq.com/oaknorth
+    enabled: true
+  - name: Miro
+    careers_url: https://jobs.ashbyhq.com/miro
+    enabled: true
+  - name: Improbable
+    careers_url: https://jobs.ashbyhq.com/improbable
+    enabled: true
+  - name: Envoy
+    careers_url: https://jobs.ashbyhq.com/envoy
+    enabled: true
+  - name: Zopa
+    careers_url: https://jobs.lever.co/zopa
+    enabled: true
+  - name: Willow
+    careers_url: https://jobs.lever.co/willowinc
+    enabled: true
 
   # -- AI Labs & LLM providers --
 
@@ -1254,20 +1487,18 @@ tracked_companies:
     enabled: true
 
   - name: OpenAI
-    careers_url: https://openai.com/careers
-    scan_method: websearch
-    scan_query: 'site:openai.com/careers "Solutions" OR "Forward Deployed" OR "AI Engineer"'
+    careers_url: https://jobs.ashbyhq.com/openai
     enabled: true
 
   - name: ByteDance
     careers_url: https://jobs.bytedance.com
     keywords: ["AI", "大模型", "Agent"]
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   - name: DeepSeek
     careers_url: https://app.mokahr.com/social-recruitment/high-flyer/140576
     keywords: ["AI", "大模型", "Agent"]
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   # -- Voice AI & Conversational AI --
 
@@ -1329,13 +1560,13 @@ tracked_companies:
     careers_url: https://jobs.gem.com/retool
     provider: gem
     notes: "London. Popularized Deployed Engineer role."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   - name: Gem
     api: https://api.gem.com/job_board/v0/gem/job_posts/
     provider: gem
     notes: "San Francisco. Recruiting platform — example of Gem's documented REST Job Board API (verified vanity path, not guessed from the company name)."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   - name: Airtable
     careers_url: https://job-boards.greenhouse.io/airtable
@@ -1580,7 +1811,7 @@ tracked_companies:
     scan_method: websearch
     scan_query: 'site:apply.workable.com/semios'
     notes: "Vancouver. Agtech and crop intelligence platform."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   # -- European tech (EMEA-friendly) --
 
@@ -1683,7 +1914,7 @@ tracked_companies:
     careers_url: https://careers.allianz.com
     provider: phenom
     notes: "Munich. Insurance group."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   # -- DACH fintech --
 
@@ -1722,7 +1953,7 @@ tracked_companies:
   - name: Nortal
     careers_url: https://careers-en-nortal.icims.com/jobs/search?ss=1  # any *.icims.com host
     notes: "Tallinn HQ, German offices. Digital transformation consulting."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   # -- Switzerland / Austria AI --
 
@@ -1753,7 +1984,7 @@ tracked_companies:
     scan_method: websearch
     scan_query: 'site:apply.workable.com/huggingface'
     notes: "Paris / NYC / Remote. ML hub & open-source models."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   - name: Photoroom
     careers_url: https://jobs.ashbyhq.com/photoroom
@@ -1770,7 +2001,7 @@ tracked_companies:
   - name: Diabolocom
     careers_url: https://jobs.eu.lever.co/diabolocom
     notes: "Paris FR. AI-native contact center (CCaaS) platform — Frost & Sullivan 2026 AI CX Leader in Europe; hybrid LLM/SLM architecture powering Agent Assist, Voice Analytics, and automated QA."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   # -- UK & Ireland AI (EU-friendly hiring) --
 
@@ -1878,14 +2109,14 @@ tracked_companies:
     provider: successfactors
     api: https://jobs.bmwgroup.com
     notes: "Munich/Remote DE. Automotive software. SuccessFactors portal."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   - name: CARIAD (Volkswagen)
     careers_url: https://jobs.volkswagen-group.com/cariad
     provider: successfactors
     api: https://jobs.volkswagen-group.com
     notes: "Germany. VW Group software. Board on the VW Group SuccessFactors portal."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   - name: Shopify
     careers_url: https://www.shopify.com/careers
@@ -1935,12 +2166,12 @@ tracked_companies:
   - name: Toggl
     careers_url: https://apply.workable.com/toggl
     notes: "Remote EU. Time tracking. Workable board."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   - name: Doist
     careers_url: https://apply.workable.com/doist
     notes: "Remote global. Productivity (Todoist). Workable board."
-    enabled: true
+    enabled: false  # fails in this environment / outside UK search
 
   # -- Denmark AI / tech --
 

@@ -59,4 +59,117 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e | Supabase | Product Manager - Postgres | Remote, Global | posted: 2026-11-10
 - [ ] https://jobs.lever.co/palantir/4bf39879-251f-43bd-be2a-c33a2663622d | Palantir | Talent Program Manager | London, United Kingdom | posted: 2024-08-29
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8622433002 | GitLab | Senior Professional Services Project Manager (EMEA) | Remote, United Kingdom | posted: 2026-07-22
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8936091002 | GitLab | Senior Professional Services Project Manager, Paris | Remote, France | posted: 2026-11-11
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8306248&gh_jid=8306248 | Elastic | Principal Product Manager Agents and Context - Elasticsearch | United Kingdom | posted: 2026-10-21
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8306238&gh_jid=8306238 | Elastic | Principal Product Manager II, AI/Vectors Elasticsearch | United Kingdom | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8083280 | Monzo | Senior Technical Program Manager | London | posted: 2026-07-24
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/8222576 | Monzo | Staff Technical Program Manager, Operations | London | posted: 2026-09-22
+- [ ] https://www.asana.com/jobs/apply/8304535?gh_jid=8304535 | Asana | Senior Implementation Manager | London | posted: 2026-10-27
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8276299?gh_jid=8276299 | Cloudflare | Principal Product Manager, Certificate Authority | Hybrid · Austin, TX · London, United Kingdom | posted: 2026-10-16
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8359292?gh_jid=8359292 | Cloudflare | Project Manager, Government Projects Team | In-Office · Lisbon, Portugal · London, United Kingdom | posted: 2026-11-10
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559 | Cloudflare | Senior Product Manager, Agentic Search | In-Office · Austin, TX · Lisbon, Portugal · London, United Kingdom · New York, NY · San Francisco, CA | posted: 2026-11-03
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8166601?gh_jid=8166601 | Cloudflare | Senior Product Manager, Cloudflare Workers | Hybrid; In-Office · Austin, TX · London, United Kingdom | posted: 2026-10-13
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8173954?gh_jid=8173954 | Cloudflare | Senior Product Manager, Email Security | Hybrid · Austin, TX · Lisbon, Portugal · London, United Kingdom | posted: 2026-09-11
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425 | Cloudflare | Senior Product Manager, Signals & Data Products | Hybrid; In-Office · Austin, TX · London, United Kingdom · San Francisco, CA | posted: 2026-11-04
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8346327?gh_jid=8346327 | Cloudflare | Senior Product Manager - Zero-Day Protection | Distributed · Austin, TX · Lisbon, Portugal · London, United Kingdom | posted: 2026-11-03
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8239323?gh_jid=8239323 | Cloudflare | Sr. Product Manager - Dashboards & Configuration (Integrity & Trust) | Hybrid · Austin, TX · London, United Kingdom | posted: 2026-10-01
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/6458166 | Canonical | Manager, Product Manager | Home based - EMEA | posted: 2025-01-31
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5029257 | Canonical | Product Manager | Home based - EMEA | posted: 2025-02-03
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/6643476 | Canonical | Product Manager - AI | Home based - EMEA | posted: 2025-02-18
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/6643965 | Canonical | Product Manager - Cloud | Home based - EMEA | posted: 2025-02-18
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/6643484 | Canonical | Product Manager - Data | Home based - EMEA | posted: 2025-02-18
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/6643483 | Canonical | Product Manager - Security | Home based - EMEA | posted: 2025-02-18
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/6643481 | Canonical | Product Manager - Ubuntu | Home based - EMEA | posted: 2025-02-18
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/2808065 | Canonical | Project Manager - Ubuntu Embedded Systems | Home Based - Americas; Home based - EMEA | posted: 2021-02-19
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/6980703 | Canonical | Technical Product Manager | Home based - EMEA | posted: 2025-06-19
+- [ ] https://job-boards.greenhouse.io/graphcore/jobs/8946800002 | Graphcore | Programme Manager | Bristol, UK | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/graphcore/jobs/8613584002 | Graphcore | Project Manager | Bristol, UK | posted: 2026-06-30
+- [ ] https://job-boards.greenhouse.io/graphcore/jobs/8883127002 | Graphcore | Technical Product Owner | Bristol, UK | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7988542 | Capco | AI Programme Manager - Wealth & Asset Management | UK - London | posted: 2026-06-08
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7858447 | Capco | Avaloq Business Analyst / Project Manager | UK - London | posted: 2026-04-27
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7916690 | Capco | Business Analyst, Capital Markets - Glasgow | UK - Glasgow | posted: 2026-05-12
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7758001 | Capco | Business Analyst - Commercial and Specialty Insurance | UK - London | posted: 2026-03-27
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7657691 | Capco | Project Manager – Wealth & Asset Management | UK - London | posted: 2026-02-26
+- [ ] https://job-boards.greenhouse.io/capco/jobs/7838505 | Capco | Senior AI Product Manager - Product & Experience | UK - London | posted: 2026-04-21
+- [ ] https://job-boards.greenhouse.io/capco/jobs/8172872 | Capco | Trade & Transaction Reporting Business Analyst / Project Manager | UK - London | posted: 2026-09-02
+- [ ] https://jobs.ashbyhq.com/kaluza/8f730128-5ff4-4ed8-ac64-bef8b730bdd7 | Kaluza | Product Manager (CCaaS) - (Fluent French & English) | Paris, France · London, UK · London · United Kingdom | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/kaluza/3a5df010-6913-411a-b5f4-d5e507448475 | Kaluza | Delivery Manager (12 month FTC) | Bristol, UK · London, UK · London · United Kingdom | posted: 2026-10-01
+- [ ] https://jobs.ashbyhq.com/kaluza/1ce2cdfd-d1ba-49c1-8784-f9f99f26ea69 | Kaluza | Product Manager - Agent Experience (Fluency in French & English required) | London, UK · Paris, France · Paris · France | 47000-59000 GBP | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/kaluza/ba858f9b-9517-4c0d-a174-0bd9c5fe63d7 | Kaluza | Product Manager - Products & Pricing | London, UK | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/snowflake/775f7c0e-f4ca-4334-a3c5-100811daf192 | Snowflake | Staff Product Manager - AI FDE | GB-London | posted: 2026-07-13
+- [ ] https://jobs.ashbyhq.com/snowflake/5381befc-594c-404d-abb2-b5d6a5da234b | Snowflake | Project Manager (French) | FR-France-Remote · GB-London · London · United Kingdom · FR-Paris · Paris · France · Rome, Italy · Rome · Italy · SE-Sweden-Remote · Remote · Sweden | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/snowflake/079b5a33-2fcd-458e-b1ba-bde591bef4cd | Snowflake | Project Manager | SE-Sweden-Remote · GB-United Kingdom-Remote · Remote · United Kingdom | posted: 2026-09-30
+- [ ] https://jobs.ashbyhq.com/Snyk/852c2e7e-e28b-4ed2-86c5-698bc5829e15 | Snyk | Associate Implementation Consultant | United Kingdom - London Office | 50000-62000 GBP | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/trainline/b9b5ccfa-277a-48f4-8a63-16410a3938a5 | Trainline | Product Manager | London | 70000-80000 GBP | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/multiverse/2ef9e1f0-0070-4e92-803a-235be41ac635 | Multiverse | Lead Product Manager | London | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/motorway/6f34a78f-e860-43cc-9a18-c7c3ae008038 | Motorway | Senior Product Manager | London | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/zego/2370ecf6-1bb6-4402-84c5-5428b2511302 | Zego | Lead AI Product Manager - Telematics | London | posted: 2026-09-23
+- [ ] https://jobs.ashbyhq.com/zego/5aec6458-1bf1-4872-b374-cd5d182bd45b | Zego | Senior AI Product Manager - Mobile Experience | London | posted: 2026-09-23
+- [ ] https://jobs.ashbyhq.com/zego/9f69d3ed-ecf4-4683-830e-b2b48777c21d | Zego | Senior AI Product Manager – Growth | London | posted: 2026-09-23
+- [ ] https://jobs.ashbyhq.com/zego/5926b2d0-a70e-4e28-b225-d11ad2c567fd | Zego | Senior AI Product Manager - Platform | London | posted: 2026-09-23
+- [ ] https://jobs.ashbyhq.com/zego/2933f531-3f4d-40ca-b652-494fadcb9564 | Zego | Lead AI Product Manager - Product Vertical | London | posted: 2026-09-23
+- [ ] https://stripe.com/jobs/search?gh_jid=8202831 | Stripe | Benefits Program Manager, EMEA | Dublin, London | posted: 2026-09-15
+- [ ] https://stripe.com/jobs/search?gh_jid=8311071 | Stripe | Corporate Security Infrastructure Project Manager, EMEA | London, Dublin | posted: 2026-10-27
+- [ ] https://stripe.com/jobs/search?gh_jid=8094087 | Stripe | Privacy Operations Program Manager | Dublin, London | posted: 2026-07-31
+- [ ] https://stripe.com/jobs/search?gh_jid=8231234 | Stripe | Product Manager, Foreign Exchange | London | posted: 2026-10-09
+- [ ] https://stripe.com/jobs/search?gh_jid=8384780 | Stripe | Product Manager, Payment Methods, EMEA | London | posted: 2026-11-20
+- [ ] https://stripe.com/jobs/search?gh_jid=8224617 | Stripe | Program Manager, Commercial Solutions | Remote/Hybrid | posted: 2026-10-09
+- [ ] https://stripe.com/jobs/search?gh_jid=8007692 | Stripe | Program Manager, Professional Services | Dublin, London | posted: 2026-08-20
+- [ ] https://stripe.com/jobs/search?gh_jid=8273741 | Stripe | Senior Staff Product Manager, Risk | London | posted: 2026-10-12
+- [ ] https://stripe.com/jobs/search?gh_jid=8043083 | Stripe | Staff Product Manager, Issuing | London | posted: 2026-07-10
+- [ ] https://jobs.ashbyhq.com/openai/6351bb6b-992d-4c4e-983d-612d91ede046 | OpenAI | Program Manager, Technology Capital Builds | London, UK | posted: 2026-10-06
+- [ ] https://jobs.lever.co/zopa/f9d9e8f2-00b7-4aba-8008-0ad51a6529e8 | Zopa | Delivery Manager | London | posted: 2026-11-10
+- [ ] https://www.amazon.jobs/en/jobs/10609300/senior-product-manager-eu-fba-support-operations | Amazon EU SARL (UK Branch) | Senior Product Manager, EU FBA Support Operations | London, England, GBR | posted: 2026-11-19
+- [ ] https://www.amazon.jobs/en/jobs/10609095/early-career-experience-program-manager-amazon-university-talent-acquisition-auta | Amazon UK Services Ltd. | Early Career Experience Program Manager, Amazon University Talent Acquisition (AUTA) | London, England, GBR | posted: 2026-11-19
+- [ ] https://www.amazon.jobs/en/jobs/10599726/principal-product-manager-tech-global-app-experience-client-team-living-room-and-web | Amazon Digital UK Limited | Principal Product Manager - Tech, Global App Experience Client team (Living Room and Web) | London, England, GBR | posted: 2026-11-09
+- [ ] https://www.amazon.jobs/en/jobs/10597529/sr-technical-program-manager-tpm-prime-air-europe | Amazon EU SARL (UK Branch) | Sr. Technical Program Manager (TPM), Prime Air Europe | London, England, GBR | posted: 2026-11-05
+- [ ] https://www.amazon.jobs/en/jobs/10606611/technical-program-manager | Amazon UK Services Ltd. | Technical Program Manager | London, England, GBR | posted: 2026-11-17
+- [ ] https://www.amazon.jobs/en/jobs/10593300/sr-technical-program-manager-global-procurement-technology | Amazon UK Services Ltd. | Sr. Technical Program Manager, Global Procurement Technology | London, England, GBR | posted: 2026-10-30
+- [ ] https://www.amazon.jobs/en/jobs/10608243/program-manager-ii | Amazon UK Services Ltd. | Program Manager II | London, England, GBR | posted: 2026-11-18
+- [ ] https://www.amazon.jobs/en/jobs/10590881/sr-product-manager-fleet-telematics-fixed-term-contract-fleet-safety-technology | Amazon UK Services Ltd. | Sr. Product Manager - Fleet Telematics (Fixed-Term contract), Fleet Safety & Technology | London, England, GBR | posted: 2026-10-30
+- [ ] https://www.amazon.jobs/en/jobs/10592128/engineering-project-manager-uk-field-engineering-team-ops-engineering | Amazon UK Services Ltd. | Engineering Project Manager, UK field Engineering Team, Ops Engineering | London, England, GBR | posted: 2026-11-05
+- [ ] https://www.amazon.jobs/en/jobs/10583115/design-and-integration-technical-infrastructure-program-manager-prime-air-europe | Amazon EU SARL (UK Branch) | Design and Integration Technical Infrastructure Program Manager, Prime Air Europe | London, England, GBR | posted: 2026-10-19
+- [ ] https://www.amazon.jobs/en/jobs/10579627/program-manager-goes-infrastructure-pmo | Amazon UK Services Ltd. | Program Manager, GOES Infrastructure PMO | London, England, GBR | posted: 2026-10-15
+- [ ] https://www.amazon.jobs/en/jobs/10576494/sr-product-manager-technical-aws-forward-deployed-engineering-fde | AWS EMEA SARL (UK Branch) | Sr Product Manager, Technical, AWS Forward Deployed Engineering (FDE) | London, England, GBR | posted: 2026-10-12
+- [ ] https://www.amazon.jobs/en/jobs/10574462/senior-product-manager-tech-prime-video-commerce | Amazon Digital UK Limited | Senior Product Manager - Tech, Prime Video Commerce | London, England, GBR | posted: 2026-10-09
+- [ ] https://www.amazon.jobs/en/jobs/10608790/principal-technical-product-manager-rufus-shopping-ai | Amazon Development Centre (London) Limited | Principal Technical Product Manager - Rufus Shopping AI | London, England, GBR | posted: 2026-11-18
+- [ ] https://www.amazon.jobs/en/jobs/10578337/ftc-process-improvement-specialist-ii-step-eu-aces-pmo-ftc | Amazon UK Services Ltd. - A10 | FTC Process Improvement Specialist II, STEP EU ACES PMO (FTC) | London, England, GBR | posted: 2026-10-14
+- [ ] https://www.amazon.jobs/en/jobs/10566031/project-manager-ukgi-pubsec-engagement-management-team | AWS EMEA SARL (UK Branch) | Project Manager, UKGI PubSec Engagement Management Team | London, England, GBR | posted: 2026-09-30
+- [ ] https://www.amazon.jobs/en/jobs/10566020/programme-manager-ukgi-pubsec-engagement-management-team | AWS EMEA SARL (UK Branch) | Programme Manager, UKGI PubSec Engagement Management Team | London, England, GBR | posted: 2026-09-30
+- [ ] https://www.amazon.jobs/en/jobs/10571904/senior-product-manager-billing-and-accounting-amazon-shipping | Amazon EU SARL (UK Branch) | Senior Product Manager — Billing and Accounting, Amazon Shipping | London, England, GBR | posted: 2026-10-07
+- [ ] https://www.amazon.jobs/en/jobs/10565490/electrical-engineering-program-manager-eu-amzl-sustainability-engineering | Amazon UK Services Ltd. | Electrical Engineering Program Manager, EU AMZL Sustainability Engineering | London, England, GBR | posted: 2026-09-30
+- [ ] https://www.amazon.jobs/en/jobs/10554776/product-manager-compliance-digital-tools-aws-environmental | AWS EMEA SARL (UK Branch) - F93 | Product Manager – Compliance Digital Tools, AWS Environmental | London, England, GBR | posted: 2026-09-21
+- [ ] https://www.amazon.jobs/en/jobs/10561453/senior-program-manager-planning-efficiency | Amazon UK Services Ltd. | Senior Program Manager, Planning Efficiency | London, England, GBR | posted: 2026-09-28
+- [ ] https://www.amazon.jobs/en/jobs/10569387/sr-product-manager-tax-engine | Amazon UK Services Ltd. | Sr Product Manager, Tax Engine | London, England, GBR | posted: 2026-10-05
+- [ ] https://www.amazon.jobs/en/jobs/10566360/sr-product-manager-technical-tax-engine | Amazon UK Services Ltd. | Sr Product Manager - Technical, Tax Engine | London, England, GBR | posted: 2026-10-01
+- [ ] https://www.amazon.jobs/en/jobs/10554933/manager-technical-programmatic-solutions-consultants-amazon-ads | Amazon UK Services Ltd. | Manager, Technical Programmatic Solutions Consultants, Amazon Ads | London, England, GBR | posted: 2026-09-21
+- [ ] https://www.amazon.jobs/en/jobs/10570130/infrastructure-technical-program-manager-interconnect-team | Amazon Data Services UK Limited | Infrastructure Technical Program Manager, Interconnect Team | London, England, GBR | posted: 2026-10-06
+- [ ] https://www.amazon.jobs/en/jobs/10544495/sr-program-manager-same-day-eu-same-day-speed-innovation | Amazon UK Services Ltd. | Sr. Program Manager - Same Day, EU Same Day Speed Innovation | London, England, GBR | posted: 2026-09-16
+- [ ] https://www.amazon.jobs/en/jobs/10516706/data-center-project-manager-critical-projects-implementation-cpi | Amazon Data Services UK Limited | Data Center Project Manager, Critical Projects Implementation (CPI) | Hemel Hempstead, England, GBR | posted: 2026-08-27
+- [ ] https://www.amazon.jobs/en/jobs/10525851/proserve-area-delivery-leader-wwps-professional-services-ukgi | AWS EMEA SARL (UK Branch) | ProServe Area Delivery Leader, WWPS Professional Services - UKGI | London, England, GBR | posted: 2026-09-02
+- [ ] https://www.amazon.jobs/en/jobs/10511662/senior-technical-program-manager-ads-brand-safety-and-suitability | Amazon Development Centre (London) Limited | Senior Technical Program Manager, Ads Brand Safety and Suitability | London, England, GBR | posted: 2026-08-24
+- [ ] https://www.amazon.jobs/en/jobs/10477279/senior-grid-delivery-manager-aws-to-be-based-in-london-dublin-madrid-or-frankfurt | Amazon Data Services UK Limited | Senior Grid Delivery Manager, AWS , (To be based in London, Dublin, Madrid or Frankfurt) | London, England, GBR | posted: 2026-07-17
+- [ ] https://www.amazon.jobs/en/jobs/10473838/principal-technical-program-manager-alexa-for-shopping-rufus | Amazon Development Centre (London) Limited | Principal Technical Program Manager, Alexa for Shopping (Rufus) | London, England, GBR | posted: 2026-07-14
+- [ ] https://www.amazon.jobs/en/jobs/10472472/sr-program-manager-content-development-amazon-shipping | Amazon EU SARL (UK Branch) | Sr Program Manager, Content Development, Amazon Shipping | London, England, GBR | posted: 2026-07-13
+- [ ] https://www.amazon.jobs/en/jobs/10453769/sr-product-manager-eu-everyday-essentials-12-month-contract | Amazon EU SARL (UK Branch) - D67 | Sr. Product Manager, EU Everyday Essentials (12-month Contract) | London, England, GBR | posted: 2026-06-19
+- [ ] https://www.amazon.jobs/en/jobs/10454840/program-manager-ftc-eu-dsp-payments | Amazon UK Services Ltd. - A10 | Program Manager - FTC, EU DSP Payments | London, England, GBR | posted: 2026-06-22
+- [ ] https://www.amazon.jobs/en/jobs/10450157/first-deployment-technical-program-manager-robotics-delivery-packaging-innovation | Amazon UK Services Ltd. - A10 | First Deployment Technical Program Manager, Robotics Delivery & Packaging Innovation | London, England, GBR | posted: 2026-06-16
+- [ ] https://www.amazon.jobs/en/jobs/10461283/design-engineer-project-manager-for-ict-structured-cabling-cabling-infrastructure-technology | Amazon UK Services Ltd. | Design Engineer/Project Manager for ICT Structured Cabling, Cabling Infrastructure Technology | London, England, GBR | posted: 2026-06-29
+- [ ] https://www.amazon.jobs/en/jobs/10427133/principal-technical-program-manager-sye-low-latency-streaming-prime-video | Amazon Development Centre (London) Limited | Principal Technical Program Manager, Sye Low Latency Streaming, Prime Video | London, England, GBR | posted: 2026-05-21
+- [ ] https://www.amazon.jobs/en/jobs/10384297/technical-program-manager-amazon-application-security | Amazon Development Centre (London) Limited | Technical Program Manager, Amazon Application Security | London, England, GBR | posted: 2026-04-06
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8385262 | Deliveroo | Business Systems Analyst - Workday Time Tracking & Absence Management | London, United Kingdom - Deliveroo | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8284751 | Deliveroo | Creative Project Manager - Fixed Term | London, United Kingdom - Deliveroo | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8312495 | Deliveroo | Product Manager, Discovery | London, United Kingdom | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206313 | Deliveroo | Product Manager, Finance Engineering | London, England | posted: 2026-10-01
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8330743 | Deliveroo | Product Manager, Pricing | London, United Kingdom - Deliveroo | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8399146 | Deliveroo | Programme Manager, Commercial Incentives | London, United Kingdom - Deliveroo | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8349593 | Deliveroo | Programme Manager, Compliance (Strategy & Operations) | London, England; London, United Kingdom; London, United Kingdom - Deliveroo | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8261830 | Deliveroo | Senior Creative Project Manager -Fixed Term Contract | London, United Kingdom - Deliveroo | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206045 | Deliveroo | Senior Product Manager, New Verticals | London, United Kingdom | posted: 2026-09-18
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206035 | Deliveroo | Senior Product Manager, Retail | London, England | posted: 2026-09-18
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206613 | Deliveroo | Senior Product Manager, Trust & Safety, Integrity and Fraud | London, United Kingdom - Deliveroo | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206515 | Deliveroo | Senior Technical Programme Manager - Money | London, United Kingdom - Deliveroo | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206345 | Deliveroo | Staff Product Manager, Generative AI Platform | London, United Kingdom | posted: 2026-10-20
+
 ## Processed
