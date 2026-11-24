@@ -80,7 +80,7 @@ Aug 2017 – Mar 2018
 
 ## Certifications
 
-- **PRINCE2 Foundation** -- Exam taken November 2026, result pending
+- **PRINCE2 Foundation** -- Passed, November 2026
 
 ## Skills
 

@@ -138,7 +138,7 @@ risk_summary:
 | Dashboards on programme health and risk KPIs | high (structural) | ✅ Strong | What you will do | "Tableau", SQL, Python; RAG reporting; ex-Data Analyst |
 | ISO 27001 / ISO 42001 / AI security frameworks | preferred (structural) | ✅ Strong | Nice to have | ISO 27001 certification lead (2023) |
 | Cloud architecture, Zero Trust, IAM engineering | preferred (structural) | ⚠️ Partial | Nice to have | AWS SQS/SNS; RBAC. No Zero Trust or IAM architecture. |
-| Security / PM certification | preferred (structural) | ⚠️ Partial | Nice to have | "PRINCE2 Foundation — Exam taken November 2026, result pending"; Scrum listed as a skill |
+| Security / PM certification | preferred (structural) | ⚠️ Partial | Nice to have | "PRINCE2 Foundation — Passed, November 2026" (a PM certification; no security certification); Scrum listed as a skill |
 | GCP / Alphabet ecosystem | preferred (structural) | ❌ Missing | Nice to have | AWS only |
 
 ### Gaps

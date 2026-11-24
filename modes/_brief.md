@@ -55,7 +55,7 @@ default **3.5**), matching the verdict table in `modes/triage.md`.
 
 ## Soft Red Flags (−0.5 each, additive)
 - Requires UK security clearance (SC/DV) — flag for the user; eligibility depends on residency history
-- Requires PMP / PRINCE2 Practitioner as mandatory (candidate has PRINCE2 Foundation, result pending)
+- Requires PMP / PRINCE2 Practitioner as mandatory (candidate holds PRINCE2 Foundation, passed Nov 2026, not Practitioner)
 - Deep domain requirement outside SaaS/IoT/data (e.g. construction PM, clinical, banking regulation)
 - Pure product-management role demanding a track record as PM owner of a product
 
