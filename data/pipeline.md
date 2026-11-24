@@ -31,16 +31,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://helsing.ai/jobs/4983527101?gh_jid=4983527101 | Helsing | Programme Manager – Land | London, England, United Kingdom | posted: 2026-09-23
 - [ ] https://helsing.ai/jobs/4983519101?gh_jid=4983519101 | Helsing | Software Programme Manager – Land | London, England, United Kingdom | posted: 2026-09-23
 - [ ] https://sumup.com/careers/positions/8821322002?gh_jid=8821322002 | SumUp | Senior Product Manager - Consumer Lifecycle | London, England, United Kingdom | posted: 2026-09-27
-- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5990644004 | Isomorphic Labs | Senior Technical Program Manager (InfoSec), London | London | posted: 2026-05-07
 - [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6266465004 | Isomorphic Labs | Technical Program Manager (Data), London | London | posted: 2026-11-19
 - [ ] https://jobs.ashbyhq.com/synthesia/c2ba6d4d-f991-4432-a9c8-1514a93b08bb | Synthesia | Product Manager, New Product Bet (Principal-level) | London | posted: 2026-09-28
 - [ ] https://jobs.ashbyhq.com/synthesia/31e1dca3-74fd-4f74-8f40-5bb19f4034bb | Synthesia | Product Manager, Enterprise (Staff/Principal-level) | London · Europe · United Kingdom | posted: 2026-08-05
 - [ ] https://jobs.ashbyhq.com/synthesia/e934a7ac-b668-46c0-9953-eed4504658b7 | Synthesia | Product Manager, Interactive Avatars (Staff/Principal-level - SDKs, APIs) | London | posted: 2026-11-11
-- [ ] https://jobs.ashbyhq.com/faculty/7d725aa6-7d91-4bbd-abb9-c20d5fbcf424 | Faculty | Delivery Manager | London | posted: 2026-09-25
 - [ ] https://jobs.ashbyhq.com/faculty/34a7ebbb-6f37-4ad1-a082-f10cd2a2d4fb | Faculty | Lead Product Manager | London | posted: 2026-11-05
 - [ ] https://jobs.ashbyhq.com/faculty/e1df8d31-461f-43b4-81ed-dbf8cd9fbedf | Faculty | Senior Product Manager | London | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/legora/53ae82a6-d5d6-4565-88aa-c6a2feccc736 | Legora | Senior Product Manager | London | posted: 2026-10-26
-- [ ] https://jobs.ashbyhq.com/legora/4c534493-f8c2-4489-9663-8f53c70448d6 | Legora | Technical Delivery Lead, EMEA | London | posted: 2026-11-20
 - [ ] https://jobs.ashbyhq.com/pleo/a14cd528-70ed-4b1e-9b50-04705c9af78a | Pleo | Technical Program Manager, Customer Experience | Lisbon · London · Madrid | posted: 2026-10-28
 - [ ] https://jobs.lever.co/spotify/080868dd-fc8c-4648-b6ab-6780d8ca3d63 | Spotify | Principal Product Manager - Audio and Media Playback | Stockholm; London | posted: 2026-09-16
 - [ ] https://jobs.lever.co/spotify/73a83f73-2f59-4c82-bac3-7dfc5d3355ad | Spotify | Principal Product Manager - Core Experience Platform | London; Stockholm | posted: 2026-10-05
@@ -63,7 +60,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8936091002 | GitLab | Senior Professional Services Project Manager, Paris | Remote, France | posted: 2026-11-11
 - [ ] https://jobs.elastic.co/jobs?gh_jid=8306248&gh_jid=8306248 | Elastic | Principal Product Manager Agents and Context - Elasticsearch | United Kingdom | posted: 2026-10-21
 - [ ] https://jobs.elastic.co/jobs?gh_jid=8306238&gh_jid=8306238 | Elastic | Principal Product Manager II, AI/Vectors Elasticsearch | United Kingdom | posted: 2026-10-21
-- [ ] https://job-boards.greenhouse.io/monzo/jobs/8083280 | Monzo | Senior Technical Program Manager | London | posted: 2026-07-24
 - [ ] https://job-boards.greenhouse.io/monzo/jobs/8222576 | Monzo | Staff Technical Program Manager, Operations | London | posted: 2026-09-22
 - [ ] https://www.asana.com/jobs/apply/8304535?gh_jid=8304535 | Asana | Senior Implementation Manager | London | posted: 2026-10-27
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8276299?gh_jid=8276299 | Cloudflare | Principal Product Manager, Certificate Authority | Hybrid · Austin, TX · London, United Kingdom | posted: 2026-10-16
@@ -124,9 +120,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.amazon.jobs/en/jobs/10609095/early-career-experience-program-manager-amazon-university-talent-acquisition-auta | Amazon UK Services Ltd. | Early Career Experience Program Manager, Amazon University Talent Acquisition (AUTA) | London, England, GBR | posted: 2026-11-19
 - [ ] https://www.amazon.jobs/en/jobs/10599726/principal-product-manager-tech-global-app-experience-client-team-living-room-and-web | Amazon Digital UK Limited | Principal Product Manager - Tech, Global App Experience Client team (Living Room and Web) | London, England, GBR | posted: 2026-11-09
 - [ ] https://www.amazon.jobs/en/jobs/10597529/sr-technical-program-manager-tpm-prime-air-europe | Amazon EU SARL (UK Branch) | Sr. Technical Program Manager (TPM), Prime Air Europe | London, England, GBR | posted: 2026-11-05
-- [ ] https://www.amazon.jobs/en/jobs/10606611/technical-program-manager | Amazon UK Services Ltd. | Technical Program Manager | London, England, GBR | posted: 2026-11-17
 - [ ] https://www.amazon.jobs/en/jobs/10593300/sr-technical-program-manager-global-procurement-technology | Amazon UK Services Ltd. | Sr. Technical Program Manager, Global Procurement Technology | London, England, GBR | posted: 2026-10-30
-- [ ] https://www.amazon.jobs/en/jobs/10608243/program-manager-ii | Amazon UK Services Ltd. | Program Manager II | London, England, GBR | posted: 2026-11-18
 - [ ] https://www.amazon.jobs/en/jobs/10590881/sr-product-manager-fleet-telematics-fixed-term-contract-fleet-safety-technology | Amazon UK Services Ltd. | Sr. Product Manager - Fleet Telematics (Fixed-Term contract), Fleet Safety & Technology | London, England, GBR | posted: 2026-10-30
 - [ ] https://www.amazon.jobs/en/jobs/10592128/engineering-project-manager-uk-field-engineering-team-ops-engineering | Amazon UK Services Ltd. | Engineering Project Manager, UK field Engineering Team, Ops Engineering | London, England, GBR | posted: 2026-11-05
 - [ ] https://www.amazon.jobs/en/jobs/10583115/design-and-integration-technical-infrastructure-program-manager-prime-air-europe | Amazon EU SARL (UK Branch) | Design and Integration Technical Infrastructure Program Manager, Prime Air Europe | London, England, GBR | posted: 2026-10-19
@@ -173,3 +167,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206345 | Deliveroo | Staff Product Manager, Generative AI Platform | London, United Kingdom | posted: 2026-10-20
 
 ## Processed
+
+- [x] #005 | https://job-boards.greenhouse.io/isomorphiclabs/jobs/5990644004 | Isomorphic Labs | Senior TPM (InfoSec) | 4.1/5 | PDF ✅
+- [x] #004 | https://jobs.ashbyhq.com/faculty/7d725aa6-7d91-4bbd-abb9-c20d5fbcf424 | Faculty | Delivery Manager | 4.5/5 | PDF ✅
+- [x] ~~Legora | Technical Delivery Lead, EMEA~~ — oferta nieaktywna (removed from Legora board, checked 2026-11-24)
+- [x] #003 | https://job-boards.greenhouse.io/monzo/jobs/8083280 | Monzo | Senior Technical Program Manager | 4.2/5 | PDF ✅
+- [x] #001 | https://www.amazon.jobs/en/jobs/10606611/technical-program-manager | Amazon | Technical Program Manager | 4.4/5 | PDF ✅
+- [x] #002 | https://www.amazon.jobs/en/jobs/10608243/program-manager-ii | Amazon | Program Manager II | 4.3/5 | PDF ✅
